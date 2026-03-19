@@ -1,66 +1,129 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+'use client';
+
+import React, { useState, useEffect } from 'react';
+import SearchBar from '@/components/SearchBar';
+import ResultCard from '@/components/ResultCard';
+import FilterPanel from '@/components/FilterPanel';
+import { initializeSearch, searchSlides, getStats, SearchableSlide } from '@/lib/search';
+import { SearchResult } from 'minisearch';
+import styles from './page.module.css';
+
+type SortOption = 'relevance' | 'date' | 'filename';
+type CombinedResult = SearchResult & SearchableSlide;
 
 export default function Home() {
+  const [isReady, setIsReady] = useState(false);
+  const [isSearching, setIsSearching] = useState(false);
+  const [query, setQuery] = useState('');
+  const [results, setResults] = useState<CombinedResult[]>([]);
+  const [sortBy, setSortBy] = useState<SortOption>('relevance');
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    // Initialize miniSearch on mount
+    initializeSearch()
+      .then(() => setIsReady(true))
+      .catch((err) => {
+        console.error('Failed to init search', err);
+        setError('Impossible de charger l\'index de recherche.');
+      });
+  }, []);
+
+  const handleSearch = (newQuery: string) => {
+    setQuery(newQuery);
+    if (!newQuery.trim()) {
+      setResults([]);
+      setIsSearching(false);
+      return;
+    }
+    
+    setIsSearching(true);
+    // Timeout to allow UI to update to searching state before heavy sync computation
+    setTimeout(() => {
+      try {
+        const queryResults = searchSlides(newQuery);
+        setResults(queryResults);
+      } catch (err) {
+        console.error('Search error', err);
+      } finally {
+        setIsSearching(false);
+      }
+    }, 0);
+  };
+
+  const getSortedResults = () => {
+    if (sortBy === 'relevance') return results; // Already sorted by MiniSearch
+    
+    return [...results].sort((a, b) => {
+      if (sortBy === 'date') {
+        return new Date(b.modified_at).getTime() - new Date(a.modified_at).getTime();
+      }
+      if (sortBy === 'filename') {
+        return a.filename.localeCompare(b.filename);
+      }
+      return 0;
+    });
+  };
+
+  const sortedResults = getSortedResults();
+  const stats = getStats();
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+    <main className={styles.main}>
+      <div className={styles.hero}>
+        <h1 className={styles.title}>Agencies Slides Search</h1>
+        <p className={styles.subtitle}>
+          Retrouvez instantanément le contenu de présentations PowerPoint par mot-clé.
+        </p>
+      </div>
+
+      <div className={styles.searchSection}>
+        {error ? (
+          <div className={styles.error}>{error}</div>
+        ) : (
+          <SearchBar 
+            onSearch={handleSearch} 
+            resultCount={query ? results.length : null}
+            isSearching={!isReady || isSearching}
+          />
+        )}
+      </div>
+
+      <div className={styles.resultsSection}>
+        {query && results.length > 0 && (
+          <FilterPanel 
+            sortBy={sortBy} 
+            onSortChange={setSortBy} 
+            resultCount={results.length} 
+          />
+        )}
+
+        <div className={styles.cardsGrid}>
+          {sortedResults.map((result) => (
+            <ResultCard
+              key={result.id}
+              filename={result.filename}
+              path={result.path}
+              slideNumber={result.slide_number}
+              title={result.title}
+              excerpt={result.excerpt}
+              modifiedAt={result.modified_at}
             />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+          ))}
         </div>
-      </main>
-    </div>
+
+        {query && results.length === 0 && !isSearching && isReady && (
+          <div className={styles.noResults}>
+            Aucun résultat trouvé pour "{query}". 
+            <br />
+            Essayez des termes plus généraux.
+          </div>
+        )}
+      </div>
+
+      <footer className={styles.footer}>
+        <p>Index local : {stats ? `${stats.total_slides} slides dans ${stats.total_files} fichiers` : 'Chargement...'}</p>
+      </footer>
+    </main>
   );
 }

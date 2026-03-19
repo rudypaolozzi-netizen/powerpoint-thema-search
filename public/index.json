@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-03-19T15:31:37.849372",
+  "root": "./test_data",
+  "stats": {
+    "total_files": 1,
+    "total_slides": 3
+  },
+  "files": [
+    {
+      "path": "C:\\Users\\rpaolozzi\\.gemini\\antigravity\\Skills_global\\PowerPoint_Thema_Research\\test_data\\test_presentation.pptx",
+      "filename": "test_presentation.pptx",
+      "modified_at": "2026-03-19T15:27:59.936852",
+      "size": 34993,
+      "slides": [
+        {
+          "slide_number": 1,
+          "title": "Hello, World!",
+          "text": "Hello, World!\npython-pptx was here!",
+          "excerpt": "Hello, World! python-pptx was here!"
+        },
+        {
+          "slide_number": 2,
+          "title": "Adding a Bullet Slide",
+          "text": "Adding a Bullet Slide\nFind the bullet slide layout\nUse _TextFrame.text for first bullet\nUse _TextFrame.add_paragraph() for subsequent bullets",
+          "excerpt": "Adding a Bullet Slide Find the bullet slide layout Use _TextFrame.text for first bullet Use _TextFrame.add_paragraph() for subsequent bullets"
+        },
+        {
+          "slide_number": 3,
+          "title": "",
+          "text": "World is back!",
+          "excerpt": "World is back!"
+        }
+      ]
+    }
+  ]
+}
