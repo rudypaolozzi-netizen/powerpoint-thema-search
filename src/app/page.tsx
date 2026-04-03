@@ -11,6 +11,26 @@ import styles from './page.module.css';
 type SortOption = 'relevance' | 'date' | 'filename';
 type CombinedResult = SearchResult & SearchableSlide;
 
+const formatIndexGeneratedAt = (value: string | null | undefined) => {
+  if (!value) {
+    return null;
+  }
+
+  const normalizedValue = value.replace(/(\.\d{3})\d+$/, '$1');
+  const date = new Date(normalizedValue);
+  if (Number.isNaN(date.getTime())) {
+    return null;
+  }
+
+  return new Intl.DateTimeFormat('fr-FR', {
+    day: '2-digit',
+    month: 'long',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+  }).format(date);
+};
+
 export default function Home() {
   const [isReady, setIsReady] = useState(false);
   const [isSearching, setIsSearching] = useState(false);
@@ -67,6 +87,7 @@ export default function Home() {
 
   const sortedResults = getSortedResults();
   const stats = getStats();
+  const generatedAtLabel = formatIndexGeneratedAt(stats?.generated_at);
 
   return (
     <main className={styles.main}>
@@ -123,6 +144,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p>Index local : {stats ? `${stats.total_slides} slides dans ${stats.total_files} fichiers` : 'Chargement...'}</p>
+        {generatedAtLabel && <p>Index mis à jour le {generatedAtLabel}</p>}
       </footer>
     </main>
   );

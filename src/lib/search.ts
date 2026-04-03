@@ -109,5 +109,12 @@ export const searchSlides = (query: string): (SearchResult & SearchableSlide)[] 
 };
 
 export const getStats = () => {
-  return indexDataCache?.stats || null;
+  if (!indexDataCache) {
+    return null;
+  }
+
+  return {
+    ...indexDataCache.stats,
+    generated_at: indexDataCache.generated_at,
+  };
 };
