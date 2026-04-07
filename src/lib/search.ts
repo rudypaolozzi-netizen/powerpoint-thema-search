@@ -49,7 +49,13 @@ const normalizeText = (text: string) => {
 export const fetchIndexData = async (): Promise<IndexData> => {
   if (indexDataCache) return indexDataCache;
 
-  const url = process.env.NEXT_PUBLIC_INDEX_URL || '/index.json';
+  // Production now ships the generated index as a static asset in /public.
+  // Ignore any stale hosted URL injected by Vercel so the UI always reads
+  // the index committed alongside the current deployment.
+  const url =
+    process.env.NODE_ENV === 'development'
+      ? process.env.NEXT_PUBLIC_INDEX_URL || '/index.json'
+      : '/index.json';
   const response = await fetch(url);
   if (!response.ok) {
     throw new Error(`Failed to fetch index from ${url}`);
