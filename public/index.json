@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T10:00:38.786663",
+  "generated_at": "2026-06-12T10:00:28.392883",
   "root": "\\\\file-groupe-paris.imageforce.com\\Sequoia\\Dossiers\\Compétitions",
   "stats": {
     "total_files": 216,
-    "total_slides": 8060
+    "total_slides": 8058
   },
   "files": [
     {
@@ -49852,8 +49852,8 @@
     {
       "path": "\\\\file-groupe-paris.imageforce.com\\Sequoia\\Dossiers\\Compétitions\\CORPO_HEALTH\\PROPAL\\Corpo_Health.pptx",
       "filename": "Corpo_Health.pptx",
-      "modified_at": "2026-06-02T17:08:49.661166",
-      "size": 58921287,
+      "modified_at": "2026-06-10T10:55:20.213942",
+      "size": 58904415,
       "slides": [
         {
           "slide_number": 1,
@@ -49864,8 +49864,8 @@
         {
           "slide_number": 2,
           "title": "",
-          "text": "2\nFlorine Bessard - Javier Cuenca Lopez - Clémence Navaron\nSanté mentale et QVCT : comprendre, repérer, agir",
-          "excerpt": "2 Florine Bessard - Javier Cuenca Lopez - Clémence Navaron Santé mentale et QVCT : comprendre, repérer, agir"
+          "text": "2\nFlorine Bessard - Javier Cuenca Lopez - Clémence Navaron\nSanté mentale et QVCT :\n COMPRENDRE, NOMMER, REPERER, AGIR.",
+          "excerpt": "2 Florine Bessard - Javier Cuenca Lopez - Clémence Navaron Santé mentale et QVCT :  COMPRENDRE, NOMMER, REPERER, AGIR."
         },
         {
           "slide_number": 3,
@@ -49882,50 +49882,50 @@
         {
           "slide_number": 5,
           "title": "",
-          "text": "Promesse apprenant \n\nEn 30 minutes, acquérir les bons repères pour comprendre les risques psychosociaux, identifier des situations préoccupantes et savoir vers qui se tourner ou comment agir sans jugement ni diagnostic. \n\nLe module doit positionner les RPS comme des risques professionnels liés aux situations de travail, à l’organisation et aux relations de travail, et non comme une fragilité individuelle. L’INRS identifie notamment le stress, les violences internes et les violences externes parmi les manifestations des RPS, et recommande une prévention collective centrée sur le travail réel et son organisation.",
+          "text": "Promesse apprenant \n\nEn 30 minutes, acquérir les bons repères pour comprendre les risques psychosociaux, identifier des situations préoccupantes et savoir vers qui se tourner ou comment agir sans jugement ni diagnostic. \n\nLe module doit positionner les RPS comme des risques professionnels liés aux situations de travail, à l’organisation et aux relations de travail, et non comme une fragilité individuelle. \nL’INRS identifie notamment le stress, les violences internes et les violences externes parmi les manifestations des RPS, et recommande une prévention collective centrée sur le travail réel et son organisation.",
           "excerpt": "Promesse apprenant   En 30 minutes, acquérir les bons repères pour comprendre les risques psychosociaux, identifier des situations préoccupantes et savoir vers qui se tourner ou comment agir sans juge..."
         },
         {
           "slide_number": 6,
           "title": "",
-          "text": "L’apprenant suit une équipe confrontée à une période de transformation : augmentation de la charge, priorités changeantes, tensions avec des clients, manque de reconnaissance et fatigue croissante. Au fil du module, il apprend à :\nEtape 1. Comprendre les notions essentielles \nEtape 2. Nommer correctement les situations ; \nEtape 3. Repérer les signaux faibles ; \nEtape 4. Agir en mobilisant les bons relais et outils. \nCe fil rouge permet d’éviter un module uniquement théorique ou réglementaire. Les notions sont introduites à partir de situations crédibles, puis immédiatement mises en pratique.\n\nPersonnages du cas fil rouge\nMathilde, collaboratrice engagée, dont la charge augmente progressivement. \nSamir, manager de proximité, qui doit arbitrer dans un contexte sous pression. \nL’équipe, dont certains indicateurs collectifs commencent à évoluer : retards, erreurs, tensions, absentéisme. \nVirginie, RH / référente QVCT, qui intervient dans la dernière partie pour orienter vers les ressources et les outils de prévention. \n\nCes personnages permettent de parler à la fois aux collaborateurs, aux managers et aux acteurs RH/QVCT, sans multiplier les parcours.\nCONCEPT PEDAGOGIQUE",
-          "excerpt": "L’apprenant suit une équipe confrontée à une période de transformation : augmentation de la charge, priorités changeantes, tensions avec des clients, manque de reconnaissance et fatigue croissante. Au..."
-        },
-        {
-          "slide_number": 7,
-          "title": "",
           "text": "Principes de conception \n\nUn module de sensibilisation, pas un module de diagnostic \nL’apprenant doit apprendre à observer, alerter et orienter, mais il ne doit pas être placé dans une posture de médecin, psychologue ou juriste. Le burn-out, par exemple, est décrit par l’OMS comme un phénomène professionnel lié à un stress chronique au travail insuffisamment pris en charge ; il ne s’agit pas d’un diagnostic que l’apprenant pourrait poser sur un collègue. \n\n\nUne approche centrée sur les situations de travail \nLe module doit éviter les messages du type : « apprenez à mieux gérer votre stress ». La prévention des RPS ne repose pas uniquement sur les capacités d’adaptation individuelles : elle implique d’analyser la charge, les priorités, l’autonomie, les moyens, la reconnaissance, les relations de travail et les changements organisationnels. L’INRS regroupe ces facteurs autour de six familles : intensité et temps de travail, exigences émotionnelles, autonomie, rapports sociaux, conflits de valeurs et insécurité de la situation de travail.",
           "excerpt": "Principes de conception   Un module de sensibilisation, pas un module de diagnostic  L’apprenant doit apprendre à observer, alerter et orienter, mais il ne doit pas être placé dans une posture de méde..."
         },
         {
-          "slide_number": 8,
+          "slide_number": 7,
           "title": "",
           "text": "Principes de conception \n\n\nUne attention particulière au caractère sensible du sujet \u000bDès l’introduction, un bouton permanent doit permettre d’accéder à une page “Besoin d’aide ou d’écoute ?”, personnalisable avec :\nRH ou interlocuteur QVCT ; \nmanager ou référent interne ; \nCSE, selon l’organisation ; \nservice de prévention et de santé au travail ; \ndispositif d’écoute éventuellement mis en place par l’entreprise ; \nnuméros d’urgence ou d’aide adaptés. \n\nEn France, le 3114 est accessible gratuitement, 24 h/24 et 7 j/7, pour toute personne en détresse ou ayant des pensées suicidaires, ainsi que pour les proches souhaitant aider.",
           "excerpt": "Principes de conception    Une attention particulière au caractère sensible du sujet \u000bDès l’introduction, un bouton permanent doit permettre d’accéder à une page “Besoin d’aide ou d’écoute ?”, personn..."
         },
         {
-          "slide_number": 9,
+          "slide_number": 8,
           "title": "02",
-          "text": "02\nStructure du dispositif\njuin 26\n9",
-          "excerpt": "02 Structure du dispositif juin 26 9"
+          "text": "02\nStructure du dispositif\njuin 26\n8",
+          "excerpt": "02 Structure du dispositif juin 26 8"
         },
         {
-          "slide_number": 10,
+          "slide_number": 9,
           "title": "",
           "text": "Nous proposons une structure composée de 4 temps forts qui correspondent aux 4 réflexes à adopter.",
           "excerpt": "Nous proposons une structure composée de 4 temps forts qui correspondent aux 4 réflexes à adopter."
         },
         {
-          "slide_number": 11,
+          "slide_number": 10,
           "title": "STRUCTURE PEDAGOGIQUE",
-          "text": "STRUCTURE PEDAGOGIQUE\n11\n3\nREPERER\n2\nNOMMER\n1\nCOMPRENDRE\nQuiz d’intro   \n\n\nPoser le cadre & tester la connaissance du sujet pour favoriser l’attention.\n4\nAGIR\nQuiz de contrôle   \n\nTester les connaissances acquises. \n\n3 min\nObjectifs \nMaîtriser les notions fondamentales.\n\nInstaller un climat de confiance. \n\nDédramatiser la possibilité de parler des difficultés. \n\nExpliquer le positionnement du module : comprendre, repérer, orienter et prévenir. \n\n\n\n\n\nDurée\n6 minutes\nObjectifs \nDistinguer situations, symptômes et termes usuels. \n\nReconnaître différentes manifestations de mal-être au travail.\n\nDistinguer stress, épuisement professionnel, ennui ou perte de sens.\n\nIdentifier des situations de violence ou de harcèlement potentiel.\n\nUtiliser une formulation factuelle sans poser de diagnostic. \n\nDurée\n7 minutes\nObjectifs\nObserver les indices individuels et collectifs. \n\nIdentifier des signaux individuels possibles.\n\nRepérer des signaux collectifs dans une équipe.\n\nReconnaître certains indicateurs organisationnels  \n\nAdopter une posture d’observation factuelle et non jugeante\n\n\n\nDurée\n7 minutes\nObjectifs\nIdentifier les relais et les outils d’action.\n\nIdentifier les interlocuteurs internes et externes mobilisables.\n\nComprendre les grands principes du DUERP et du plan d’action.\n\nRepérer quelques dispositifs d’alerte. \n\nSélectionner des actions de prévention adaptées à une situation.\n\n\nDurée\n7 minutes",
-          "excerpt": "STRUCTURE PEDAGOGIQUE 11 3 REPERER 2 NOMMER 1 COMPRENDRE Quiz d’intro      Poser le cadre & tester la connaissance du sujet pour favoriser l’attention. 4 AGIR Quiz de contrôle     Tester les connaissa..."
+          "text": "STRUCTURE PEDAGOGIQUE\n10\n3\nREPERER\n2\nNOMMER\n1\nCOMPRENDRE\nQuiz d’intro   \n\n\nPoser le cadre & tester la connaissance du sujet pour favoriser l’attention.\n4\nAGIR\nQuiz de contrôle   \n\nTester les connaissances acquises. \n\n3 min\nObjectifs \nMaîtriser les notions fondamentales.\n\nInstaller un climat de confiance. \n\nDédramatiser la possibilité de parler des difficultés. \n\nExpliquer le positionnement du module : comprendre, repérer, orienter et prévenir. \n\n\n\n\n\nDurée\n6 minutes\nObjectifs \nDistinguer situations, symptômes et termes usuels. \n\nReconnaître différentes manifestations de mal-être au travail.\n\nDistinguer stress, épuisement professionnel, ennui ou perte de sens.\n\nIdentifier des situations de violence ou de harcèlement potentiel.\n\nUtiliser une formulation factuelle sans poser de diagnostic. \n\nDurée\n7 minutes\nObjectifs\nObserver les indices individuels et collectifs. \n\nIdentifier des signaux individuels possibles.\n\nRepérer des signaux collectifs dans une équipe.\n\nReconnaître certains indicateurs organisationnels  \n\nAdopter une posture d’observation factuelle et non jugeante\n\n\n\nDurée\n7 minutes\nObjectifs\nIdentifier les relais et les outils d’action.\n\nIdentifier les interlocuteurs internes et externes mobilisables.\n\nComprendre les grands principes du DUERP et du plan d’action.\n\nRepérer quelques dispositifs d’alerte. \n\nSélectionner des actions de prévention adaptées à une situation.\n\n\nDurée\n7 minutes",
+          "excerpt": "STRUCTURE PEDAGOGIQUE 10 3 REPERER 2 NOMMER 1 COMPRENDRE Quiz d’intro      Poser le cadre & tester la connaissance du sujet pour favoriser l’attention. 4 AGIR Quiz de contrôle     Tester les connaissa..."
+        },
+        {
+          "slide_number": 11,
+          "title": "03",
+          "text": "03\nUnivers créatif\njuin 26\n11",
+          "excerpt": "03 Univers créatif juin 26 11"
         },
         {
           "slide_number": 12,
-          "title": "03",
-          "text": "03\nUnivers créatif\njuin 26\n12",
-          "excerpt": "03 Univers créatif juin 26 12"
+          "title": "",
+          "text": "CORPO HEALTH\nV1",
+          "excerpt": "CORPO HEALTH V1"
         },
         {
           "slide_number": 13,
@@ -49934,10 +49934,10 @@
           "excerpt": "CORPO HEALTH V1"
         },
         {
-          "slide_number": 14,
+          "slide_number": 15,
           "title": "",
-          "text": "CORPO HEALTH\nV1",
-          "excerpt": "CORPO HEALTH V1"
+          "text": "CORPO HEALTH\nV2",
+          "excerpt": "CORPO HEALTH V2"
         },
         {
           "slide_number": 16,
@@ -49952,121 +49952,109 @@
           "excerpt": "CORPO HEALTH V2"
         },
         {
-          "slide_number": 18,
-          "title": "",
-          "text": "CORPO HEALTH\nV2",
-          "excerpt": "CORPO HEALTH V2"
+          "slide_number": 21,
+          "title": "04",
+          "text": "04\nContenu pédagogique\njuin 26\n21",
+          "excerpt": "04 Contenu pédagogique juin 26 21"
         },
         {
           "slide_number": 22,
-          "title": "04",
-          "text": "04\nContenu pédagogique\njuin 26\n22",
-          "excerpt": "04 Contenu pédagogique juin 26 22"
+          "title": "MOTION DESIGN D’OUVERTURE –",
+          "text": "22\nTitre : Derrière les signaux \n\nRôle pédagogique du motion design\nCe motion design ne doit pas être une simple introduction institutionnelle. Il doit :\n-     engager immédiatement l’apprenant sur un sujet sensible ; \n-     montrer que les RPS peuvent concerner tous les univers professionnels ; \n-     faire comprendre que les difficultés ne viennent pas uniquement des personnes, mais aussi des situations de travail ; \ninstaller les quatre réflexes du parcours : comprendre, nommer, repérer, agir \ndonner envie de poursuivre le module pour apprendre à réagir concrètement.\n\nLe motion design intervient dès l’ouverture, avant la première interaction. Il permet de créer un socle émotionnel commun, puis l’apprenant entre dans une logique active :\nJe viens d’observer plusieurs signaux. Maintenant, comment les comprendre et comment réagir ?\n\nStoryboard du motion design - Intention créative\nMontrer que les risques psychosociaux ne prennent pas toujours la forme d’un événement spectaculaire. Ils peuvent émerger dans des situations ordinaires, dans différents métiers, lorsque les contraintes s’accumulent, que les ressources manquent ou que les signaux restent sans réponse.\nLe motion design adopte une approche humaine, sobre et inclusive, sans dramatisation excessive. Il ne représente pas une entreprise ou un secteur spécifique : il juxtapose plusieurs réalités professionnelles pour favoriser l’identification de tous les collaborateurs.\nMOTION DESIGN D’OUVERTURE –",
+          "excerpt": "22 Titre : Derrière les signaux   Rôle pédagogique du motion design Ce motion design ne doit pas être une simple introduction institutionnelle. Il doit : -     engager immédiatement l’apprenant sur un..."
         },
         {
           "slide_number": 23,
-          "title": "MOTION DESIGN D’OUVERTURE –",
-          "text": "23\nTitre : Derrière les signaux \n\nRôle pédagogique du motion design\nCe motion design ne doit pas être une simple introduction institutionnelle. Il doit :\n- engager immédiatement l’apprenant sur un sujet sensible ; \n- montrer que les RPS peuvent concerner tous les univers professionnels ; \n- faire comprendre que les difficultés ne viennent pas uniquement des personnes, mais aussi des situations de travail ; \n- installer les quatre réflexes du parcours : comprendre, nommer, repérer, agir ; \ndonner envie de poursuivre le module pour apprendre à réagir concrètement.\n\nLe motion design intervient dès l’ouverture, avant la première interaction. Il permet de créer un socle émotionnel commun, puis l’apprenant entre dans une logique active :\nJe viens d’observer plusieurs signaux. Maintenant, comment les comprendre et comment réagir ?\n\nStoryboard du motion design - Intention créative\nMontrer que les risques psychosociaux ne prennent pas toujours la forme d’un événement spectaculaire. Ils peuvent émerger dans des situations ordinaires, dans différents métiers, lorsque les contraintes s’accumulent, que les ressources manquent ou que les signaux restent sans réponse.\nLe motion design adopte une approche humaine, sobre et inclusive, sans dramatisation excessive. Il ne représente pas une entreprise ou un secteur spécifique : il juxtapose plusieurs réalités professionnelles pour favoriser l’identification de tous les collaborateurs.\nMOTION DESIGN D’OUVERTURE –",
-          "excerpt": "23 Titre : Derrière les signaux   Rôle pédagogique du motion design Ce motion design ne doit pas être une simple introduction institutionnelle. Il doit : - engager immédiatement l’apprenant sur un suj..."
-        },
-        {
-          "slide_number": 24,
           "title": "QUESTION DE TRANSITION & DE LANCEMENT",
-          "text": "24\nDans les situations que vous venez d’observer, quel est le premier bon réflexe ?\n\nChoix proposés\nA. Identifier immédiatement la personne responsable de la situation.\u000bB. Poser un diagnostic pour mesurer la gravité du problème.\u000bC. Observer les faits, écouter les personnes concernées et identifier les relais possibles.\n\nFeedback : \nTout au long de ce module, vous allez apprendre à observer une situation de travail, à utiliser les bons mots, à repérer les signaux et à mobiliser les ressources adaptées, sans juger ni diagnostiquer.\n\n\n\nCette première interaction enclenche immédiatement une posture active et introduit la logique pédagogique du parcours.\nQUESTION DE TRANSITION & DE LANCEMENT",
-          "excerpt": "24 Dans les situations que vous venez d’observer, quel est le premier bon réflexe ?  Choix proposés A. Identifier immédiatement la personne responsable de la situation.\u000bB. Poser un diagnostic pour mes..."
+          "text": "23\nDans les situations que vous venez d’observer, quel est le premier bon réflexe ?\n\nChoix proposés\nA. Identifier immédiatement la personne responsable de la situation.\u000bB. Poser un diagnostic pour mesurer la gravité du problème.\u000bC. Observer les faits, écouter les personnes concernées et identifier les relais possibles.\n\nFeedback : \nTout au long de ce module, vous allez apprendre à observer une situation de travail, à utiliser les bons mots, à repérer les signaux et à mobiliser les ressources adaptées, sans juger ni diagnostiquer.\n\n\n\nCette première interaction enclenche immédiatement une posture active et introduit la logique pédagogique du parcours.\nQUESTION DE TRANSITION & DE LANCEMENT",
+          "excerpt": "23 Dans les situations que vous venez d’observer, quel est le premier bon réflexe ?  Choix proposés A. Identifier immédiatement la personne responsable de la situation.\u000bB. Poser un diagnostic pour mes..."
         },
         {
-          "slide_number": 26,
+          "slide_number": 25,
           "title": "PARTIE 1. COMPRENDRE",
-          "text": "26\nLe motion design ayant déjà introduit les différents univers professionnels et les signaux possibles, la partie 1 peut aller directement à l’essentiel.\n\nExpérience apprenant\nL’apprenant retrouve quatre vignettes issues du motion design :\npriorités contradictoires \nincivilités d’un client ou d’un usager \naugmentation du rythme de travail sans moyens supplémentaires \nisolement dans une organisation hybride. \n\nActivité : L’apprenant sélectionne, dans chaque situation, les facteurs pouvant fragiliser la personne ou l’équipe :\nCharge\nManque de clarté  \nAgressivité externe \nFaible autonomie \nIsolement \nDéfaut de soutien \nChangement insuffisamment accompagné\n.\nPARTIE 1. COMPRENDRE",
-          "excerpt": "26 Le motion design ayant déjà introduit les différents univers professionnels et les signaux possibles, la partie 1 peut aller directement à l’essentiel.  Expérience apprenant L’apprenant retrouve qu..."
+          "text": "25\nLe motion design ayant déjà introduit les différents univers professionnels et les signaux possibles, la partie 1 peut aller directement à l’essentiel.\n\nExpérience apprenant\nL’apprenant retrouve quatre vignettes issues du motion design :\npriorités contradictoires \nincivilités d’un client ou d’un usager \naugmentation du rythme de travail sans moyens supplémentaires \nisolement dans une organisation hybride. \n\nActivité : L’apprenant sélectionne, dans chaque situation, les facteurs pouvant fragiliser la personne ou l’équipe :\nCharge\nManque de clarté  \nAgressivité externe \nFaible autonomie \nIsolement \nDéfaut de soutien \nChangement insuffisamment accompagné\n.\nPARTIE 1. COMPRENDRE",
+          "excerpt": "25 Le motion design ayant déjà introduit les différents univers professionnels et les signaux possibles, la partie 1 peut aller directement à l’essentiel.  Expérience apprenant L’apprenant retrouve qu..."
+        },
+        {
+          "slide_number": 27,
+          "title": "1. COMPRENDRE (Option b)",
+          "text": "27\nVidéo d’expert — interview d’un expert santé au travail ou d’un responsable prévention/QVCT.\n\n«  Pourquoi parler des RPS concerne-t-il tout le monde dans l’entreprise ? » \n\nMessages à transmettre\nLes RPS sont des risques professionnels. Ils peuvent concerner tous les métiers et tous les niveaux de responsabilité. \nLes RPS ne viennent pas d’un seul événement. Ils peuvent apparaître lorsque plusieurs facteurs de travail s’accumulent, se prolongent ou ne trouvent pas de réponse adaptée.\nPrévenir ne consiste pas à chercher un responsable individuel, mais à agir sur les situations de travail.\n…\n1. COMPRENDRE (Option b)",
+          "excerpt": "27 Vidéo d’expert — interview d’un expert santé au travail ou d’un responsable prévention/QVCT.  «  Pourquoi parler des RPS concerne-t-il tout le monde dans l’entreprise ? »   Messages à transmettre L..."
         },
         {
           "slide_number": 28,
-          "title": "1. COMPRENDRE (Option b)",
-          "text": "28\nVidéo d’expert — interview d’un expert santé au travail ou d’un responsable prévention/QVCT.\n\n«  Pourquoi parler des RPS concerne-t-il tout le monde dans l’entreprise ? » \n\nMessages à transmettre\nLes RPS sont des risques professionnels. Ils peuvent concerner tous les métiers et tous les niveaux de responsabilité. \nLes RPS ne viennent pas d’un seul événement. Ils peuvent apparaître lorsque plusieurs facteurs de travail s’accumulent, se prolongent ou ne trouvent pas de réponse adaptée.\nPrévenir ne consiste pas à chercher un responsable individuel, mais à agir sur les situations de travail.\n…\n1. COMPRENDRE (Option b)",
-          "excerpt": "28 Vidéo d’expert — interview d’un expert santé au travail ou d’un responsable prévention/QVCT.  «  Pourquoi parler des RPS concerne-t-il tout le monde dans l’entreprise ? »   Messages à transmettre L..."
+          "title": "PARTIE 2. NOMMER",
+          "text": "28\nActivité interactive : dialogue à choix \nL’apprenant est placé face à 3 paroles inspirées des scènes du motion design d’ouverture pour lesquelles il doit sélectionner la posture adéquate : \n« Je n’arrive plus à suivre, je dors mal et j’ai peur d’ouvrir ma messagerie. » \n«  Je n’en peux plus des remarques formulées devant tous mes autres collègues. » \n« Je ne comprends plus l’utilité de cette tâche qui m’incombe. » \n.\nPARTIE 2. NOMMER\nA chaque bon choix, l’apprenant débloque une Lettre de la méthode FAIRE :\nF = Décrire les faits \nA = Accueillir la parole \nI = Exprimer son inquiétude\nR = Identifier un relais \nE = Eviter diagnostic et minimisation  \n\nConclusion : je pars des faits et de la parole exprimée, sans étiqueter la personne.",
+          "excerpt": "28 Activité interactive : dialogue à choix  L’apprenant est placé face à 3 paroles inspirées des scènes du motion design d’ouverture pour lesquelles il doit sélectionner la posture adéquate :  « Je n’..."
         },
         {
-          "slide_number": 29,
-          "title": "PARTIE 2. NOMMER",
-          "text": "29\nActivité interactive : dialogue à choix \nL’apprenant est placé face à 3 paroles inspirées des scènes du motion design d’ouverture pour lesquelles il doit sélectionner la posture adéquate : \n« Je n’arrive plus à suivre, je dors mal et j’ai peur d’ouvrir ma messagerie. » \n«  Je n’en peux plus des remarques formulées devant tous mes autres collègues. » \n« Je ne comprends plus l’utilité de cette tâche qui m’incombe. » \n.\nPARTIE 2. NOMMER\nA chaque bon choix, l’apprenant débloque une Lettre de la méthode FAIRE :\nF = Décrire les faits \nA = Accueillir la parole \nI = Exprimer son inquiétude\nR = Identifier un relais \nE = Eviter diagnostic et minimisation  \n\nConclusion : je pars des faits et de la parole exprimée, sans étiqueter la personne.",
-          "excerpt": "29 Activité interactive : dialogue à choix  L’apprenant est placé face à 3 paroles inspirées des scènes du motion design d’ouverture pour lesquelles il doit sélectionner la posture adéquate :  « Je n’..."
+          "slide_number": 30,
+          "title": "PARTIE 3. REPERER",
+          "text": "30\nL’apprenant est invité à consulter un récapitulatif des dernières semaines d’une équipe et à identifier le type de signal.  \n\nSemaine 1 : Une fatigue observable et une erreur inhabituelle chez un collaborateur \nSemaine 3 : des plaintes convergentes sur la charge et les priorités \nSemaine 5 : des tensions au sein de l’équipe entre 2 collaborateurs \nSemaine 6 : absence d’un collaborateur\nPARTIE 3. REPERER\nSignal individuel\nSignal collectif\nSignal organisationnel\nAu fur et à mesure les signaux catégorisés remplissent 3 jauges : personne / équipe / organisation. \n\nL’objectif n’est pas de faire monter un score, mais de démontrer visuellement qu’une situation devient préoccupante lorsque les signaux convergent. \n\nConclusion : un signal isolé ne permet pas de conclure, mais une accumulation doit être prise au sérieux.",
+          "excerpt": "30 L’apprenant est invité à consulter un récapitulatif des dernières semaines d’une équipe et à identifier le type de signal.    Semaine 1 : Une fatigue observable et une erreur inhabituelle chez un c..."
         },
         {
           "slide_number": 31,
-          "title": "PARTIE 3. REPERER",
-          "text": "31\nL’apprenant est invité à consulter un récapitulatif des dernières semaines d’une équipe et à identifier le type de signal.  \n\nSemaine 1 : Une fatigue observable et une erreur inhabituelle chez un collaborateur \nSemaine 3 : des plaintes convergentes sur la charge et les priorités \nSemaine 5 : des tensions au sein de l’équipe entre 2 collaborateurs \nSemaine 6 : absence d’un collaborateur\nPARTIE 3. REPERER\nSignal individuel\nSignal collectif\nSignal organisationnel\nAu fur et à mesure les signaux catégorisés remplissent 3 jauges : personne / équipe / organisation. \n\nL’objectif n’est pas de faire monter un score, mais de démontrer visuellement qu’une situation devient préoccupante lorsque les signaux convergent. \n\nConclusion : un signal isolé ne permet pas de conclure, mais une accumulation doit être prise au sérieux.",
-          "excerpt": "31 L’apprenant est invité à consulter un récapitulatif des dernières semaines d’une équipe et à identifier le type de signal.    Semaine 1 : Une fatigue observable et une erreur inhabituelle chez un c..."
-        },
-        {
-          "slide_number": 32,
           "title": "PARTIE 3. REPERER (OPTION B)",
           "text": "PARTIE 3. REPERER (OPTION B)\nActivité interactive : la carte des signaux \n\nL’apprenant consulte un tableau de bord fictif de l’équipe de Samir :\névolution des retards \nverbatims d’équipe \ntaux d’absences \nincidents clients \nextraits de réunions \nvolume de demandes urgentes. \n\nIl doit sélectionner les éléments qui méritent une attention particulière, puis les classer :\nsignal individuel / signal collectif / indicateur organisationnel / information insuffisante pour conclure.\n\nFeedback : le feedback insiste sur deux messages :\nObserver ne signifie pas diagnostiquer. \nLes indicateurs sont utiles lorsqu’ils conduisent à analyser le travail réel et à engager une action de prévention.\n\nConclusion globale de l’activité : repérer, c’est observer des évolutions et relier les signaux aux situations de travail, sans jugement sur les personnes.",
           "excerpt": "PARTIE 3. REPERER (OPTION B) Activité interactive : la carte des signaux   L’apprenant consulte un tableau de bord fictif de l’équipe de Samir : évolution des retards  verbatims d’équipe  taux d’absen..."
         },
         {
-          "slide_number": 33,
+          "slide_number": 32,
           "title": "PARTIE 4. AGIR",
-          "text": "33\nUne réorganisation provoque des tensions\n\nUne équipe signale une surcharge persistante \n\nDes remarques humiliantes répétées sont rapportées \n\nUne personne exprime un mal être\nPARTIE 4. AGIR\n.\nEcouter, orienter, apprécier l’urgence\n\nAnalyser la charge et l’organisation, solliciter les acteurs compétents \n\nPrendre au sérieux, signaler selon le dispositif interne\n\nAnalyser les facteurs de travail et inscrire des actions de prévention\nSignaux observés → Dialogue / alerte → Analyse des risques → Actions de prévention → Suivi\nConclusion : je n’ai pas à résoudre seul ; je contribue à orienter et à prévenir.\nL’apprenant doit relier des situations aux décisions / attitudes pertinentes :",
-          "excerpt": "33 Une réorganisation provoque des tensions  Une équipe signale une surcharge persistante   Des remarques humiliantes répétées sont rapportées   Une personne exprime un mal être PARTIE 4. AGIR . Ecout..."
+          "text": "32\nUne réorganisation provoque des tensions\n\nUne équipe signale une surcharge persistante \n\nDes remarques humiliantes répétées sont rapportées \n\nUne personne exprime un mal être\nPARTIE 4. AGIR\n.\nEcouter, orienter, apprécier l’urgence\n\nAnalyser la charge et l’organisation, solliciter les acteurs compétents \n\nPrendre au sérieux, signaler selon le dispositif interne\n\nAnalyser les facteurs de travail et inscrire des actions de prévention\nSignaux observés → Dialogue / alerte → Analyse des risques → Actions de prévention → Suivi\nConclusion : je n’ai pas à résoudre seul ; je contribue à orienter et à prévenir.\nL’apprenant doit relier des situations aux décisions / attitudes pertinentes :",
+          "excerpt": "32 Une réorganisation provoque des tensions  Une équipe signale une surcharge persistante   Des remarques humiliantes répétées sont rapportées   Une personne exprime un mal être PARTIE 4. AGIR . Ecout..."
+        },
+        {
+          "slide_number": 34,
+          "title": "",
+          "text": "juin 26\nTitre de la présentation\n34\nQUIZ FINAL – seuil de réussite recommandé 80%\nParmi les propositions suivantes, laquelle décrit le mieux les RPS ?\nA. Des fragilités personnelles qui empêchent certains salariés de faire face au travail.\u000bB. Des risques liés aux situations de travail pouvant affecter la santé physique, mentale ou sociale.\u000bC. Des conflits entre collègues uniquement.\nBonne réponse : B\n\nLaquelle de ces situations peut constituer un facteur de risque psychosocial ?\nA. Des objectifs contradictoires et une charge durablement excessive.\u000bB. Une pause déjeuner prise ponctuellement plus tard.\u000bC. Une réunion d’équipe préparée à l’avance.\nBonne réponse : A\n\nUn collègue semble très fatigué et dit qu’il n’arrive plus à faire face. Que faire en priorité ?\nA. Lui annoncer qu’il est en burn-out.\u000bB. Lui dire de prendre sur lui.\u000bC. Accueillir sa parole, exprimer son inquiétude et l’orienter vers un relais adapté.\nBonne réponse : C",
+          "excerpt": "juin 26 Titre de la présentation 34 QUIZ FINAL – seuil de réussite recommandé 80% Parmi les propositions suivantes, laquelle décrit le mieux les RPS ? A. Des fragilités personnelles qui empêchent cert..."
         },
         {
           "slide_number": 35,
-          "title": "2. SAVOIR NOMMER LES MAUX POUR MIEUX LES ADRESSER",
-          "text": "35\n2. SAVOIR NOMMER LES MAUX POUR MIEUX LES ADRESSER\nActivité intéractive : « Que diriez-vous ? » \n\nL’apprenant choisit la meilleure réaction face à 3 situations. \n\n“Je n’en peux plus, je ne dors presque plus et j’ai peur d’ouvrir ma messagerie.”\n\nTu fais sûrement un burn-out, tu devrais te mettre en arrêt de travail\nTout le monde est sous-pression en ce moment, ca va passer. \nCe que tu décris semble difficile à vivre. Souhaites-tu que je t’aide à en parler à une ressource adaptée ?\n\nFeedback : la réponse C est effet la plus pertinente car elle accueille la parole, ne minimise pas, ne diagnostique pas et oriente.\n\nConclusion globale de l’activité : bien nommer, c’est partir des faits et de la parole exprimée, sans minimiser ni diagnostiquer.",
-          "excerpt": "35 2. SAVOIR NOMMER LES MAUX POUR MIEUX LES ADRESSER Activité intéractive : « Que diriez-vous ? »   L’apprenant choisit la meilleure réaction face à 3 situations.   “Je n’en peux plus, je ne dors pres..."
+          "title": "",
+          "text": "juin 26\nTitre de la présentation\n35\nQUIZ FINAL – seuil de réussite recommandé 80%\nLequel de ces éléments peut constituer un signal collectif ?\nA. Une personne absente une journée pour un rendez-vous personnel.\u000bB. Une hausse répétée des erreurs, tensions et absences dans une même équipe.\u000bC. Un changement ponctuel de salle de réunion.\nBonne réponse : B\n\nQuelle action relève le mieux d’une prévention durable des RPS ?\nA. Proposer uniquement une application de méditation aux salariés.\u000bB. Analyser les causes de surcharge et ajuster l’organisation du travail.\u000bC. Demander aux collaborateurs d’être plus résistants au stress.\nBonne réponse : B\n\nQuel outil permet d’intégrer l’évaluation des risques professionnels, y compris les RPS ?\nA. Le DUERP.\u000bB. Le planning des congés.\u000bC. L’organigramme.\nBonne réponse : A\n\n…",
+          "excerpt": "juin 26 Titre de la présentation 35 QUIZ FINAL – seuil de réussite recommandé 80% Lequel de ces éléments peut constituer un signal collectif ? A. Une personne absente une journée pour un rendez-vous p..."
         },
         {
-          "slide_number": 36,
-          "title": "",
-          "text": "juin 26\nTitre de la présentation\n36\nQUIZ FINAL – seuil de réussite recommandé 80%\nParmi les propositions suivantes, laquelle décrit le mieux les RPS ?\nA. Des fragilités personnelles qui empêchent certains salariés de faire face au travail.\u000bB. Des risques liés aux situations de travail pouvant affecter la santé physique, mentale ou sociale.\u000bC. Des conflits entre collègues uniquement.\nBonne réponse : B\n\nLaquelle de ces situations peut constituer un facteur de risque psychosocial ?\nA. Des objectifs contradictoires et une charge durablement excessive.\u000bB. Une pause déjeuner prise ponctuellement plus tard.\u000bC. Une réunion d’équipe préparée à l’avance.\nBonne réponse : A\n\nUn collègue semble très fatigué et dit qu’il n’arrive plus à faire face. Que faire en priorité ?\nA. Lui annoncer qu’il est en burn-out.\u000bB. Lui dire de prendre sur lui.\u000bC. Accueillir sa parole, exprimer son inquiétude et l’orienter vers un relais adapté.\nBonne réponse : C",
-          "excerpt": "juin 26 Titre de la présentation 36 QUIZ FINAL – seuil de réussite recommandé 80% Parmi les propositions suivantes, laquelle décrit le mieux les RPS ? A. Des fragilités personnelles qui empêchent cert..."
+          "slide_number": 38,
+          "title": "05",
+          "text": "05\nEquipe & organisation\njuin 26\n38",
+          "excerpt": "05 Equipe & organisation juin 26 38"
         },
         {
-          "slide_number": 37,
+          "slide_number": 39,
           "title": "",
-          "text": "juin 26\nTitre de la présentation\n37\nQUIZ FINAL – seuil de réussite recommandé 80%\nLequel de ces éléments peut constituer un signal collectif ?\nA. Une personne absente une journée pour un rendez-vous personnel.\u000bB. Une hausse répétée des erreurs, tensions et absences dans une même équipe.\u000bC. Un changement ponctuel de salle de réunion.\nBonne réponse : B\n\nQuelle action relève le mieux d’une prévention durable des RPS ?\nA. Proposer uniquement une application de méditation aux salariés.\u000bB. Analyser les causes de surcharge et ajuster l’organisation du travail.\u000bC. Demander aux collaborateurs d’être plus résistants au stress.\nBonne réponse : B\n\nQuel outil permet d’intégrer l’évaluation des risques professionnels, y compris les RPS ?\nA. Le DUERP.\u000bB. Le planning des congés.\u000bC. L’organigramme.\nBonne réponse : A\n\n…",
-          "excerpt": "juin 26 Titre de la présentation 37 QUIZ FINAL – seuil de réussite recommandé 80% Lequel de ces éléments peut constituer un signal collectif ? A. Une personne absente une journée pour un rendez-vous p..."
+          "text": "juin 26\n39\nFlorine  \nIngénieur pédagogique\nPILOTAGE\nCRÉATION\nJavier\nDirecteur artistique\nAlice \nUX designer Maquettiste\nClémence\nDirectrice Conseil\nJean–Marc\nLearning lead \u000bdéveloppeur \nCertifié TOM\nYoan \nLearning développeur\nL ’équipe\nTECHNIQUE",
+          "excerpt": "juin 26 39 Florine   Ingénieur pédagogique PILOTAGE CRÉATION Javier Directeur artistique Alice  UX designer Maquettiste Clémence Directrice Conseil Jean–Marc Learning lead \u000bdéveloppeur  Certifié TOM Y..."
         },
         {
           "slide_number": 40,
-          "title": "05",
-          "text": "05\nEquipe & organisation\njuin 26\n40",
-          "excerpt": "05 Equipe & organisation juin 26 40"
+          "title": "",
+          "text": "juin 26\n40\nCONCEPTION PEDAGOGIQUE\nCREATION ET PROTOTYPING\nPRODUCTION & TESTS\nSTEP 1 – JUILLET\nSTEP 2  – JUILLET\nSTEP 3 – SEPTEMBRE & OCTOBRE\nDéveloppement des activités, tests\n\nLocalisation des modules et relecture\nCréation de l’univers et créatifs, UX selon l’identité définie \nDesign des activités.\nRéalisation du prototypage\nProcess & outils collaboratifs\nObjectifs pédagogiques, partage des sources\n\nDéfinition de la structure pédagogique et rédaction des contenus\nPréparation de production\n(photos, visuels, …)\nDirection artistique \n\nDesign des activités \n\nDéclinaison des templates\n\nValidation finale\nDéveloppement technique multidevice \n\nTests & recettes\n\nLivraison zip scorm\nClient + Sequoia\nFigma\nActiv Collab\nClient + Sequoia\nStructure pédagogique (excel ou word)\nClient + Sequoia",
+          "excerpt": "juin 26 40 CONCEPTION PEDAGOGIQUE CREATION ET PROTOTYPING PRODUCTION & TESTS STEP 1 – JUILLET STEP 2  – JUILLET STEP 3 – SEPTEMBRE & OCTOBRE Développement des activités, tests  Localisation des module..."
         },
         {
           "slide_number": 41,
-          "title": "",
-          "text": "juin 26\n41\nFlorine  \nIngénieur pédagogique\nPILOTAGE\nCRÉATION\nJavier\nDirecteur artistique\nAlice \nUX designer Maquettiste\nClémence\nDirectrice Conseil\nJean–Marc\nLearning lead \u000bdéveloppeur \nCertifié TOM\nYoan \nLearning développeur\nL ’équipe\nTECHNIQUE",
-          "excerpt": "juin 26 41 Florine   Ingénieur pédagogique PILOTAGE CRÉATION Javier Directeur artistique Alice  UX designer Maquettiste Clémence Directrice Conseil Jean–Marc Learning lead \u000bdéveloppeur  Certifié TOM Y..."
+          "title": "06",
+          "text": "06\nApproche budgétaire\njuin 26\n41",
+          "excerpt": "06 Approche budgétaire juin 26 41"
         },
         {
           "slide_number": 42,
           "title": "",
-          "text": "juin 26\n42\nCONTENT DESIGN\nCREATION ET PROTOTYPING\nPRODUCTION / TESTS / COMMUNICATION\nSTEP 1\nSTEP 2\nSTEP 3\nSTEP 4\nSTEP 5\nDéveloppement des activités, tests\n\nLocalisation des modules et relecture\nCréation de l’univers et créatifs, UX selon l’identité définie \nDesign des activités.\nRéalisation du prototypage\nSTEP 6\nProcess & outils collaboratifs\nPedagogical objectives and presentation of the project content\n\nStorytelling writing and & validation\n\nDefinition of the pedagogical architecture\nDesign of pedagogical activities and technical validation\n\nComposition of pedagogical content  & validation\nPreparation de production\n\nDelivery of approved sources (texts, photos & videos)\nCreation of the graphic design world, UX\n\nActivities design\n\nPrototyping\nFinal mock-up validation\nWriting of specs tech guidelines & validation\n\nActivity development, internal tests, client tests\nTesting of multidevices versions\n\nTesting of deployment on LMS\n\nDeployment\nClient + Sequoia\nInVision\nGoogle Sheet\nFigma\nInVision\nGoogle Sheet\nFigma\nInVision\nActiv Collab\nLocalize\nActiv Collab\nWhimsical (activity mechanics) \nGoogle Sheet\nClient + Sequoia\nClient + Sequoia\nClient + Sequoia\nPedagogical architecture\nDesign matrix (key notions to memorize)\nClient + Sequoia\nClient + Sequoia",
-          "excerpt": "juin 26 42 CONTENT DESIGN CREATION ET PROTOTYPING PRODUCTION / TESTS / COMMUNICATION STEP 1 STEP 2 STEP 3 STEP 4 STEP 5 Développement des activités, tests  Localisation des modules et relecture Créati..."
+          "text": "CONCEPTION PEDAGOGIQUE\nMONTANT HT\nRecueil des sources (textes, photos, vidéos) réflexion sur la thématique à traiter, conception du storytelling et de la scénarisation pédagogique, réflexion conception pédagogique (structure)\n1000\nConception des activités et rédaction des contenus\n3000\nCREATION GRAPHIQUE\nCréation du design, intégration visuels, territoire graphique, déclinaison des activités et storyboard motion design\n2000\nCréation graphique des écrans template, UX, en 2 formats : mobile & desktop, motion design\n3500\nDEVELOPPEMENT TECHNIQUE\nDéveloppement en 2 formats : mobile, desktop du module\n3500\nTests & recette\n1000\nSuivi & coordination des différentes expertises intervenant sur le projet\n2100\nTOTAL (hors achat d’art, hors tournage & montage)\n16 100 EUROS HT\nBUDGET DISPOSITIF",
+          "excerpt": "CONCEPTION PEDAGOGIQUE MONTANT HT Recueil des sources (textes, photos, vidéos) réflexion sur la thématique à traiter, conception du storytelling et de la scénarisation pédagogique, réflexion conceptio..."
         },
         {
           "slide_number": 43,
           "title": "",
-          "text": "juin 26\n43\n4\nCONTENT DESIGN\nCREATION AND PROTOTYPING\nPRODUCTION AND TESTING\nSTEP 1\nSTEP 2\nSTEP 3\nSTEP 4\nSTEP 5\n07\n07\n07\n07\n08\n1\n2\n3\n5\nWriting of technical specs guidelines\nActivities development, testing\nModule localising and reading check\nProduction preparation.\nDelivery of approved sources (texts, photos et videos)\nPresentation of the project’s content.\nStorytelling refinement\nPedagogical architecture definition\nPedagogical activities design\nFormalisation of pedagogical content\nCreation of graphic design world, UX.\nActivities design.\nPrototyping\n6\nMultidevices versions testing.\nDeployment testing on LMS\nDeployment\nSTEP 6\nPLANNING (e-learning)\n09",
-          "excerpt": "juin 26 43 4 CONTENT DESIGN CREATION AND PROTOTYPING PRODUCTION AND TESTING STEP 1 STEP 2 STEP 3 STEP 4 STEP 5 07 07 07 07 08 1 2 3 5 Writing of technical specs guidelines Activities development, test..."
+          "text": "BUDGET PERSONNALISATION\nOPTIONS\nMONTANT HT\nLogo + intégration des contacts internes liés à la QVCT (intégration, tests & coordination)\n800\nLogo + intégration des contacts internes liés à la QVCT (intégration, tests & coordination) + mise à la charte graphique du client\n3000\nIntégration vidéo de l’entreprise (développement de la page, tests & coordination)\n500\nVersion anglaise : trad via IA + production motion design version EN + intégration de la langue dans le module et livraison scorm\n3000",
+          "excerpt": "BUDGET PERSONNALISATION OPTIONS MONTANT HT Logo + intégration des contacts internes liés à la QVCT (intégration, tests & coordination) 800 Logo + intégration des contacts internes liés à la QVCT (inté..."
         },
         {
           "slide_number": 44,
-          "title": "06",
-          "text": "06\nApproche budgétaire\njuin 26\n44",
-          "excerpt": "06 Approche budgétaire juin 26 44"
-        },
-        {
-          "slide_number": 45,
-          "title": "",
-          "text": "CONCEPTION PEDAGOGIQUE\nMONTANT HT\nRecueil des sources (textes, photos, vidéos) réflexion sur la thématique à traiter, conception du storytelling et de la scénarisation pédagogique, réflexion conception pédagogique (structure)\n1000\nConception des activités et rédaction des contenus\n3200\nCREATION GRAPHIQUE\nCréation du design, intégration visuels, territoire graphique, déclinaison des activités et storyboard motion design\n2000\nCréation graphique des écrans template, UX, en 2 formats : mobile & desktop\n3000\nDEVELOPPEMENT TECHNIQUE\nDéveloppement en 2 formats : mobile, desktop du module\n4200\nTests & recette\n1000\nSuivi & coordination des différentes expertises intervenant sur le projet\n2100\nTOTAL (hors traduction, hors achat d’art)\n16 500 EUROS HT\nBUDGET DISPOSITIF",
-          "excerpt": "CONCEPTION PEDAGOGIQUE MONTANT HT Recueil des sources (textes, photos, vidéos) réflexion sur la thématique à traiter, conception du storytelling et de la scénarisation pédagogique, réflexion conceptio..."
-        },
-        {
-          "slide_number": 46,
           "title": "",
           "text": "Pour poursuivre\nle dialogue…\nSEQUOIA Groupe NetMedia\n77 rue du château – 92 645 Boulogne-Billancourt\n81 bd de Stalingrad – 69100 LYON - VILLEURBANNE\nFlorine Bessard \nChef de projet pédagogique \u000bO6 77 52 30 05\u000bfbessard@sequoia.fr\nClemence NAVARON\nDirectrice conseil\nO6 74 89 98 11\ncnavaron@sequoia.fr",
           "excerpt": "Pour poursuivre le dialogue… SEQUOIA Groupe NetMedia 77 rue du château – 92 645 Boulogne-Billancourt 81 bd de Stalingrad – 69100 LYON - VILLEURBANNE Florine Bessard  Chef de projet pédagogique \u000bO6 77..."
